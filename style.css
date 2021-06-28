@@ -1,0 +1,14 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+background: url(img/22.jpg);
+}
+
+.text-box{
+    width: 600px;
+    position: absolute;
+    top: 200px;
+    left: 100px;
+    color: #fff;
+}
